@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MAIndustries",
+    "longName": "First Project",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/LOGO SMALL.png",
+                "name": "LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "First Project",
+    "uuid": "05342166-111e-4a2c-a6cb-7eaa0139f0ef",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
